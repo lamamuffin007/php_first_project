@@ -1,0 +1,56 @@
+body 
+{background-image : url("img/back.jpg"); 
+background-color : BDB76B}
+
+h1 
+{text-align : center; 
+font-family : Lucida Sans Unicode; 
+font-style : bolder; 
+font-size : 32pt; 
+color : #00008B;
+letter-spacing : 15pt;}
+
+p 
+{text-align : justify; 
+font-size : 14pt; 
+text-indent : 15pt; 
+font-family : Lucida Sans Unicode}
+
+h2 
+{text-align : center; 
+font-size : 16pt; 
+color : navy}
+
+.small 
+{font-size : 12pt; 
+font-family : Times New Roman; 
+text-indent : 2pt; 
+text-align : center;}
+
+.center 
+{text-align : center; 
+font-size : 14pt; 
+text-indent : 15pt; 
+font-family : Lucida Sans Unicode}
+
+a 
+{text-decoration : none}
+
+a:hover 
+{background-color: lime; 
+text-decoration : underline;}
+
+h2:First-Letter 
+{font-size : 125%; 
+color : red;}
+
+.zag 
+{font-weight : bold; 
+font-size : 14pt; 
+font-family : Times New Roman; 
+text-indent : 0pt; 
+text-align : center;}
+
+.zag:First-Letter 
+{font-size : 125%; 
+color : Green;}
